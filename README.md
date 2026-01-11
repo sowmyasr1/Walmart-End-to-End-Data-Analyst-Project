@@ -1,4 +1,4 @@
-# Walmart-End-to-End-Data-Analyst-Project
+
 This project demonstrates how to load Walmart sales data into a MySQL database using Python. It uses environment variables for secure database credentials and supports loading both raw and cleaned CSV data.
 
 
